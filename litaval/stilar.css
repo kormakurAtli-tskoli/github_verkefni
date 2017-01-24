@@ -1,7 +1,7 @@
 body {
 	margin:0;
 }
-.sumar {
+.vetur {
 	/*sumar stílar hér*/
 	background: linear-gradient(to top left,  yellow, red); /* Standard syntax (must be last) */
 	position: fixed;
@@ -14,8 +14,9 @@ body {
 	justify-content: center;
 	align-items: center;
 	align-content: center;
+	order:2;
 }
-.sumar h1 {
+.vetur h1 {
 	font-size: 5em;
 	color: #ffa;
 }
@@ -25,7 +26,7 @@ body {
 .vor {
 	display: none;
 }
-.vetur {
+.sumar {
 	display: none;
 }
 
